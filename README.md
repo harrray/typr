@@ -1,2 +1,2 @@
-# uwu
-a simple message project with an uwu twist.
+# typr
+a simple message project.
